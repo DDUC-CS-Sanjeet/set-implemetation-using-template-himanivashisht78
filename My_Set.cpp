@@ -366,7 +366,7 @@ void setoperation(T t)
 int main()
 {
    char check;
-   string S="Gaurav";
+   string S="Himani";
    cout<<"On which type you want to operate on:\n";
    cout<<"A. char \nB. int \nC. double \nD. String\n Your choice is: ";
    cin>>check;
